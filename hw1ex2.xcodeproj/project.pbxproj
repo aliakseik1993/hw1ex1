@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4B412CF723DDB45900128F99 /* hw1ex1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw1ex1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B412CF723DDB45900128F99 /* hw1ex2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw1ex2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B412CFA23DDB45900128F99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B412CFC23DDB45900128F99 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4B412CFE23DDB45900128F99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		4B412CEE23DDB45900128F99 = {
 			isa = PBXGroup;
 			children = (
-				4B412CF923DDB45900128F99 /* hw1ex1 */,
+				4B412CF923DDB45900128F99 /* hw1ex2 */,
 				4B412CF823DDB45900128F99 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		4B412CF823DDB45900128F99 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B412CF723DDB45900128F99 /* hw1ex1.app */,
+				4B412CF723DDB45900128F99 /* hw1ex2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4B412CF923DDB45900128F99 /* hw1ex1 */ = {
+		4B412CF923DDB45900128F99 /* hw1ex2 */ = {
 			isa = PBXGroup;
 			children = (
 				4B412CFA23DDB45900128F99 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				4B412D0523DDB45900128F99 /* LaunchScreen.storyboard */,
 				4B412D0823DDB45900128F99 /* Info.plist */,
 			);
-			path = hw1ex1;
+			path = hw1ex2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4B412CF623DDB45900128F99 /* hw1ex1 */ = {
+		4B412CF623DDB45900128F99 /* hw1ex2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B412D0B23DDB45900128F99 /* Build configuration list for PBXNativeTarget "hw1ex1" */;
+			buildConfigurationList = 4B412D0B23DDB45900128F99 /* Build configuration list for PBXNativeTarget "hw1ex2" */;
 			buildPhases = (
 				4B412CF323DDB45900128F99 /* Sources */,
 				4B412CF423DDB45900128F99 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = hw1ex1;
+			name = hw1ex2;
 			productName = hw1ex1;
-			productReference = 4B412CF723DDB45900128F99 /* hw1ex1.app */;
+			productReference = 4B412CF723DDB45900128F99 /* hw1ex2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4B412CF223DDB45900128F99 /* Build configuration list for PBXProject "hw1ex1" */;
+			buildConfigurationList = 4B412CF223DDB45900128F99 /* Build configuration list for PBXProject "hw1ex2" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4B412CF623DDB45900128F99 /* hw1ex1 */,
+				4B412CF623DDB45900128F99 /* hw1ex2 */,
 			);
 		};
 /* End PBXProject section */
@@ -292,8 +292,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = project1.hw1ex1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = project1.hw1ex2;
+				PRODUCT_NAME = hw1ex2;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,8 +310,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = project1.hw1ex1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = project1.hw1ex2;
+				PRODUCT_NAME = hw1ex2;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4B412CF223DDB45900128F99 /* Build configuration list for PBXProject "hw1ex1" */ = {
+		4B412CF223DDB45900128F99 /* Build configuration list for PBXProject "hw1ex2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B412D0923DDB45900128F99 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B412D0B23DDB45900128F99 /* Build configuration list for PBXNativeTarget "hw1ex1" */ = {
+		4B412D0B23DDB45900128F99 /* Build configuration list for PBXNativeTarget "hw1ex2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B412D0C23DDB45900128F99 /* Debug */,
